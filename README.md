@@ -10,10 +10,10 @@ Mahjong-Score-Sheetは、麻雀の成績を管理するための得点表です�
 https://qiita.com/Koichi37/items/4989880b9dff1e67a131
 
 ## Getting Started
-1. 以下のリンクからスプレッドシートをダウンロード
+1. 以下のリンクからスプレッドシートをダウンロード。<br>
 https://docs.google.com/spreadsheets/u/1/d/187EWZpvF5d7TZxw0RqlPe6Q235rciJ5VTwxGPsZC_aA/copy
 
-2. 初回のみ実行に承認が必要なので、下記を参考にする。
+2. 初回のみ実行に承認が必要なので、下記を参考にする。<br>
 https://tatsuya-note.com/how-to-get-gas-approved-account/
 
 ## Usage
